@@ -1,0 +1,1 @@
+goal: commit 하고, revert로 이파일 안보이던 상태고 고고
